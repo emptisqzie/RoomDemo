@@ -10,7 +10,7 @@ kotlin = "2.2.10"
 composeBom = "2026.02.01"
 roomRuntime = "2.8.3"
 runtimeLivedata = "1.9.4"
-ksp = "2.1.10-1.0.31"
+ksp = "2.3.10"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
